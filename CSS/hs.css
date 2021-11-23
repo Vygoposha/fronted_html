@@ -1,0 +1,43 @@
+.navigation{
+    float: right;
+    height: 100%;
+    margin-top: -70px;
+    margin-right: 150px;
+
+}
+
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+    background-color: #0081d1;
+}
+
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 30px;
+    color: white;
+}
+
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+
+.header {
+   background-color: #0081d1;
+   color: #FFFFFF;
+   padding: 30px;
+   margin: 0 auto;
+   font-size: x-large;
+}
+
+.content {
+    margin-left: 300px;
+    margin-right: 300px;
+    padding 100;
+    border: 2px;
+    float : left;
+}
